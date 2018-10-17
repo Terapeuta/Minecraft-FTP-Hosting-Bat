@@ -9,9 +9,9 @@ color e
 	echo    # COPYRIGHT 2018. Terapeuta@naver.com All rights reserved #
 	echo    #                                                         #
 	echo    ###########################################################
-	echo.ã€€
+	echo.¡¡
 	echo. 
-	echo    ì‹œì‘ì„ ìš”ì²­í•˜ëŠ” íŒŒì¼ì„ ê²€ìƒ‰í•©ë‹ˆë‹¤.
+	echo    ½ÃÀÛÀ» ¿äÃ»ÇÏ´Â ÆÄÀÏÀ» °Ë»öÇÕ´Ï´Ù.
 	echo. 
 	timeout /t 5 /nobreak
 	goto check
